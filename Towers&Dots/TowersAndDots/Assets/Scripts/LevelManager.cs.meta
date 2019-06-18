@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e38c4d2d1a085354fbb49d2ecd62fb89
+timeCreated: 1547935179
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tile: {fileID: 1927950472834516, guid: 5ede1a41e95efca4698ce252ab500c73, type: 2}
+  - towerTile: {fileID: 1514542456036906, guid: 7d09134df7e91634c992e7ea6c936dbc,
+      type: 2}
+  - roadTile: {fileID: 1228285862740020, guid: 584f4aa9cb2b2954c8c2b093d537a1db, type: 2}
+  - enemy: {fileID: 1522029762641798, guid: f28f47ce538429549beb05681256e04c, type: 2}
+  - finishTile: {fileID: 1359179615207692, guid: 54db8e788b50f2a49b9917a1f8dffbaa,
+      type: 2}
+  - tower1tile: {instanceID: 0}
+  - pauseTile: {fileID: 1094633150414778, guid: caf9108bac5e28048aee5ddf99f417e5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
